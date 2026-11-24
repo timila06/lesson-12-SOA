@@ -80,4 +80,3 @@ try {
 } catch (error) {
   itemsList.firstElementChild.textContent = error.message;
 }
-const = ;
