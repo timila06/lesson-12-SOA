@@ -28,3 +28,4 @@ def create_app(service: DeskService | None = None) -> FastAPI:
 
 
 app = create_app()
+def broken(:
